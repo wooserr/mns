@@ -16,6 +16,7 @@ Setup👇
 * XSS Vulnerablity Scan
 
 
+
 * Ingredients💻✨
 * WAF (Firewall) Scan
 * SQL Vulnerablity Scan
