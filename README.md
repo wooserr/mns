@@ -16,6 +16,7 @@ Setup👇
 * WAF (Firewall) Scan
 * SQL Vulnerablity Scan
 * XSS Vulnerablity Scan
+* SSL Sertificate Scan
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
@@ -23,6 +24,7 @@ Setup👇
 * WAF (Firewall) Scan
 * SQL Vulnerablity Scan
 * XSS Vulnerablity Scan
+* SSL Sertificate Scan
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
